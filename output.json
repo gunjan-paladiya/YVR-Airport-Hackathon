@@ -1,0 +1,67 @@
+[
+    {
+        "timestamp": "2024-04-11 13:28:49",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9257197976112366
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.8908719420433044
+            },
+            {
+                "class_name": "bench",
+                "confidence": 0.8613857626914978
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.8477615118026733
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8375232815742493
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.8234280943870544
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.822175920009613
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.7961516976356506
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.7366933822631836
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.7275742292404175
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.6669524908065796
+            },
+            {
+                "class_name": "refrigerator",
+                "confidence": 0.6609795689582825
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.5493491888046265
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.4053264260292053
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.40458083152770996
+            }
+        ]
+    }
+]

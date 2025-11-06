@@ -1,0 +1,30 @@
+{
+    "person": {
+        "objects": [],
+        "priority": null
+    },
+    "bench": {
+        "objects": [],
+        "priority": null
+    },
+    "chair": {
+        "objects": [],
+        "priority": null
+    },
+    "refrigerator": {
+        "objects": [
+            {
+                "last_seen": "2024-04-11 13:28:49"
+            }
+        ],
+        "priority": null
+    },
+    "backpack": {
+        "objects": [
+            {
+                "last_seen": "2024-04-11 13:28:49"
+            }
+        ],
+        "priority": null
+    }
+}

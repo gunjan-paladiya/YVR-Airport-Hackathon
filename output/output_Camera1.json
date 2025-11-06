@@ -1,0 +1,422 @@
+[
+    {
+        "timestamp": "2024-04-11 09:49:19",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9018428921699524
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.8798009157180786
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.8464819192886353
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.8267061710357666
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-11 09:49:19",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9018638134002686
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.8790951371192932
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.8461993932723999
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.8250188231468201
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-11 09:49:19",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9039701819419861
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.8714476227760315
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.8451781868934631
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.8240690231323242
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-11 09:49:20",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9034429788589478
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.8781833052635193
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.8532553911209106
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.8505134582519531
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-11 09:49:20",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9083419442176819
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.8615016937255859
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.844508171081543
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.8246625065803528
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-11 09:49:20",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.905972421169281
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.8556618094444275
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.8313801884651184
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.8206056356430054
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-11 09:49:21",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9025879502296448
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.8442615270614624
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.8418443202972412
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.8343117833137512
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-11 09:49:21",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.8995118141174316
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.8799205422401428
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.8787749409675598
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.8485655188560486
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-11 09:49:21",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.904818058013916
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.8842586278915405
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.8731030225753784
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.8565235733985901
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-11 09:49:22",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9011043906211853
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.8887941241264343
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.8634279370307922
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.8482112288475037
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-11 09:49:22",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9026000499725342
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.882067859172821
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.8629906177520752
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.8476507067680359
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-11 09:49:22",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.901760995388031
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.882559597492218
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.8730456233024597
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.8549352884292603
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-11 09:49:23",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9035060405731201
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.8805835247039795
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.875806987285614
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.8547484278678894
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-11 09:49:23",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9063577055931091
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.8750301003456116
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.8729545474052429
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.8540623188018799
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-11 09:49:23",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.906183123588562
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.872437059879303
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.8548223972320557
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.8459956049919128
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-11 09:49:24",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9102879166603088
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.8826687932014465
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.8450831174850464
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.8392869234085083
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-11 09:49:24",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9111164212226868
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.8808287382125854
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.84538733959198
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.8320550918579102
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-11 09:49:24",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9108706116676331
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.8854756951332092
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.8516027331352234
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.8447537422180176
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-11 09:49:24",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9118500351905823
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.8760590553283691
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.8574090600013733
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.8543398380279541
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-11 09:49:25",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9116487503051758
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.8605455160140991
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.8556760549545288
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.8496293425559998
+            }
+        ]
+    }
+]

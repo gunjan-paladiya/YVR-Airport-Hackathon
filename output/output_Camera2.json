@@ -1,0 +1,140 @@
+[
+    {
+        "timestamp": "2024-04-11 09:49:10",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.8965495228767395
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.8640117645263672
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8069011569023132
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8048082590103149
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.8024216890335083
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.7978370785713196
+            },
+            {
+                "class_name": "refrigerator",
+                "confidence": 0.7633312344551086
+            },
+            {
+                "class_name": "refrigerator",
+                "confidence": 0.7604778409004211
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.735171377658844
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.7133971452713013
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.6656233072280884
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.5899004340171814
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.5564989447593689
+            },
+            {
+                "class_name": "tv",
+                "confidence": 0.5020517110824585
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.4207989275455475
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.2743576765060425
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-11 09:49:11",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.8960901498794556
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.8642216324806213
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8054376244544983
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.803689181804657
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.8017866015434265
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.7970471382141113
+            },
+            {
+                "class_name": "refrigerator",
+                "confidence": 0.7605791091918945
+            },
+            {
+                "class_name": "refrigerator",
+                "confidence": 0.7546899318695068
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.7367561459541321
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.7167854905128479
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.6631588339805603
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.5935359597206116
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.5519492030143738
+            },
+            {
+                "class_name": "tv",
+                "confidence": 0.4943706691265106
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.41931214928627014
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.2674897611141205
+            }
+        ]
+    }
+]

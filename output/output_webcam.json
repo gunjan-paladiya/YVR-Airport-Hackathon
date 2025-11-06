@@ -1,0 +1,2528 @@
+[
+    {
+        "timestamp": "2024-04-10 13:45:03",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9493455290794373
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:04",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9305114150047302
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:04",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9293075203895569
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:04",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9371841549873352
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:05",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9451404213905334
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.289089173078537
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:05",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9381495714187622
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:06",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9592176675796509
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:06",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.95883709192276
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8334754109382629
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.7236599326133728
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:06",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9658546447753906
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.811214029788971
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.655036985874176
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:07",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9653121829032898
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.7110651135444641
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.5382551550865173
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:07",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9656462669372559
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.6775359511375427
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.611105740070343
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:07",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9562556147575378
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8313337564468384
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.6323490738868713
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:07",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9610050320625305
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.6326068043708801
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.5833919644355774
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.2741095721721649
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:08",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9596277475357056
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.7748483419418335
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.7520918250083923
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:08",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9664252400398254
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.5367180109024048
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.40286552906036377
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.35338640213012695
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:08",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.964949369430542
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.7950114607810974
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.7340296506881714
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:09",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9691433310508728
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8216484189033508
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8129456639289856
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:09",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9664521813392639
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.6585391163825989
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.5167436003684998
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.5150147676467896
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.3575279414653778
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:10",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9621850252151489
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8759021759033203
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.7497718334197998
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.739250123500824
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.7317002415657043
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.680012047290802
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:10",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9516343474388123
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8493883013725281
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.7986496686935425
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.7448103427886963
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.6767401695251465
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.5383015275001526
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:10",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9556930065155029
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.7641894221305847
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.7387303113937378
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.7193328738212585
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.7089407444000244
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.6932830214500427
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:11",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.947799563407898
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8172067999839783
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.7793962955474854
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.7625309228897095
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.7131335139274597
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.6444262862205505
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:11",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9683436155319214
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8209224343299866
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.6419018507003784
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.5539078712463379
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.4997253715991974
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.4700019061565399
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:11",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.957718014717102
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8395507335662842
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.4473273456096649
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.337885320186615
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:11",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9560009241104126
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8494757413864136
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.7395851612091064
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:12",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9555126428604126
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8313611745834351
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.5714632868766785
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:12",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.95931476354599
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8343009948730469
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.7617749571800232
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.34871330857276917
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:12",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9621006846427917
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.7837323546409607
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.569206178188324
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.48072561621665955
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.37213388085365295
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:13",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9657740592956543
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8430277109146118
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.5538665056228638
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.4632076025009155
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:13",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9580504298210144
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.77983558177948
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.6968042254447937
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.6090202331542969
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.5638084411621094
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.5540850758552551
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.4257490336894989
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:13",
+        "detections": [
+            {
+                "class_name": "chair",
+                "confidence": 0.8604266047477722
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8168558478355408
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.719615638256073
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.5505109429359436
+            },
+            {
+                "class_name": "cell phone",
+                "confidence": 0.3277672231197357
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.2862113416194916
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:13",
+        "detections": [
+            {
+                "class_name": "chair",
+                "confidence": 0.8131410479545593
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.7406126260757446
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.6769745349884033
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.38261041045188904
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:14",
+        "detections": [
+            {
+                "class_name": "chair",
+                "confidence": 0.8192751407623291
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8191398978233337
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.593683660030365
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.4769272804260254
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:14",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9487770795822144
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8298512697219849
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.7349140644073486
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.7190375328063965
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.5779304504394531
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.46826180815696716
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:14",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9613783955574036
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.7904967665672302
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.742728590965271
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.7352092266082764
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.6890441179275513
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.45025038719177246
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:15",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9455533623695374
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8508440852165222
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.7644891142845154
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.7406719923019409
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.7287226319313049
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.39844170212745667
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.39338013529777527
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:15",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9636536836624146
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8225685358047485
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.7003075480461121
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.6770754456520081
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.37941667437553406
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.33141499757766724
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:15",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9625613689422607
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8349477052688599
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.7293945550918579
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.6829410195350647
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.5260871648788452
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:16",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9655412435531616
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.8852663040161133
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8114925026893616
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.7047701478004456
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.6916584372520447
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.29761454463005066
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:16",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9664257168769836
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8332747220993042
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.786627471446991
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.7330840826034546
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.7107880711555481
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.41587600111961365
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.30363914370536804
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:16",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9666813015937805
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.870553195476532
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8293308019638062
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.7144538760185242
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.6911678314208984
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.40311112999916077
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.3655197322368622
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:16",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9632208943367004
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.8981274366378784
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8276137113571167
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.7173900604248047
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.6798768639564514
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.3632362186908722
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.3409236669540405
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:17",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9620839357376099
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.8839921355247498
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8332868814468384
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.7096944451332092
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.6833834052085876
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.45670557022094727
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.3318706750869751
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:17",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9627429842948914
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8475275039672852
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.8283769488334656
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.730344831943512
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.7186117768287659
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.39897283911705017
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.31188756227493286
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:17",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9645047187805176
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8386494517326355
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.8136824369430542
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.7135568857192993
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.7031655311584473
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.39737918972969055
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.3428972363471985
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:18",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9634572863578796
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.8603024482727051
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8351152539253235
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.7064186334609985
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.6564843058586121
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.4499816298484802
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.40591225028038025
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:18",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9164062738418579
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.830055832862854
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.7397849559783936
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.7269447445869446
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.6439544558525085
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.32737985253334045
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.31226736307144165
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:18",
+        "detections": [
+            {
+                "class_name": "chair",
+                "confidence": 0.8200286030769348
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.7456444501876831
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.7225529551506042
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.7134156823158264
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.6777291893959045
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:19",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9017887115478516
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.8873955607414246
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8300954103469849
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.7814030647277832
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.7348967790603638
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.6891062259674072
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:19",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.8767614364624023
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.832054853439331
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8271659016609192
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.7774844169616699
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.7160822749137878
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.6928160190582275
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:19",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.8850145936012268
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8369125723838806
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.7359761595726013
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.7103518843650818
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.44443652033805847
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:19",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9246797561645508
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8249644637107849
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.7148191332817078
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.6701819896697998
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.4836191236972809
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.4183177649974823
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:20",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9583280682563782
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8328106999397278
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.6898996233940125
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.6789770722389221
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.5641157031059265
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.337717205286026
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:20",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9704164862632751
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.910402774810791
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8303892612457275
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.7096582651138306
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.69932621717453
+            },
+            {
+                "class_name": "tv",
+                "confidence": 0.28011569380760193
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:20",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9673581719398499
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8101376295089722
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.7272694110870361
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.6818913221359253
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.6635929942131042
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:21",
+        "detections": [
+            {
+                "class_name": "chair",
+                "confidence": 0.8308031558990479
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.7316465973854065
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.7230806946754456
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.7136480808258057
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.6501131653785706
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.4416047930717468
+            },
+            {
+                "class_name": "tv",
+                "confidence": 0.250074177980423
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:21",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.84646075963974
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.8442751169204712
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8379571437835693
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.7155706882476807
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.6911532878875732
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.312003493309021
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:21",
+        "detections": [
+            {
+                "class_name": "bottle",
+                "confidence": 0.841184139251709
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8351907134056091
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.7585732340812683
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.7427824139595032
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.7289077639579773
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.2622857093811035
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:22",
+        "detections": [
+            {
+                "class_name": "chair",
+                "confidence": 0.8345227837562561
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.7481815218925476
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.7376623749732971
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.7006231546401978
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.5112373232841492
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.348885178565979
+            },
+            {
+                "class_name": "cell phone",
+                "confidence": 0.30113986134529114
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:22",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9126812219619751
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.8624500036239624
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8113223910331726
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.6924884915351868
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.6297791600227356
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.41130632162094116
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.3377850651741028
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.28552040457725525
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:22",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9482828974723816
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.8601458072662354
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8360591530799866
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.7268069982528687
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.7053819298744202
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.44094452261924744
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.27983590960502625
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:23",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9319385290145874
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.8480579257011414
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.844430685043335
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.7209674119949341
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.7190943360328674
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.5062625408172607
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:23",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.952041506767273
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.8712461590766907
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8280924558639526
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.7404420971870422
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.6972030997276306
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.581164538860321
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.4611983597278595
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:23",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9145596027374268
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.8672113418579102
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8321236968040466
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.7260664701461792
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.6746832728385925
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.4796423017978668
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:23",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9558295607566833
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.880096971988678
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8377241492271423
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.7337996363639832
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.7133558988571167
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.6126602292060852
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.4831700026988983
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:24",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9585131406784058
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.8752695918083191
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.830893874168396
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.702517032623291
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.6775491237640381
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.569480299949646
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.5284587144851685
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.27388471364974976
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:24",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.954203188419342
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.8685835599899292
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8260804414749146
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.7427406311035156
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.688922107219696
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.5411078929901123
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.4872058033943176
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:24",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9581901431083679
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.8795410990715027
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8113934397697449
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.7502887845039368
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.7015730142593384
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.5248064994812012
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.5233412981033325
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:25",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9494392275810242
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.8726320266723633
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8285730481147766
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.7123203873634338
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.705836832523346
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.6891658306121826
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.5712565779685974
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:25",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9628790616989136
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.8724144101142883
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8298371434211731
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.7161534428596497
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.6825953125953674
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.5996936559677124
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.3267101049423218
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:25",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9581270217895508
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.8859176635742188
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8153807520866394
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.7305806875228882
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.6617187857627869
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.6453708410263062
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.47508424520492554
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:26",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9617471694946289
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8507075905799866
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.8422945141792297
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.7512450218200684
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.6740468144416809
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.5711061954498291
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.44792839884757996
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:26",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9576058387756348
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.8828703165054321
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8385071158409119
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.7478548884391785
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.666154682636261
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.650229811668396
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.4314032196998596
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.35980674624443054
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:26",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9164403080940247
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.8491154909133911
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.8298592567443848
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.7352330684661865
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.6902668476104736
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.4462411105632782
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:26",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9310992360115051
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.8370667695999146
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.7660415172576904
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.6022067666053772
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.5995291471481323
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.456217497587204
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:27",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9578211307525635
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.6965268850326538
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.3829132616519928
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:27",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9599878191947937
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.6273548603057861
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.5209329128265381
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.4184044599533081
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.3695431649684906
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.3614515960216522
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:27",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9601765275001526
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.5620688199996948
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.4992519021034241
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:28",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9644654393196106
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.8171364665031433
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.6258412599563599
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.5961251258850098
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.39422380924224854
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.36202767491340637
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:28",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9615437984466553
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.5822207927703857
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.5152673721313477
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.3394100069999695
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:28",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9397196769714355
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.5913637280464172
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.5392639636993408
+            },
+            {
+                "class_name": "dining table",
+                "confidence": 0.3647298514842987
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:28",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.970502495765686
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:29",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9448569416999817
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.2891888916492462
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:29",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9346040487289429
+            },
+            {
+                "class_name": "umbrella",
+                "confidence": 0.30714377760887146
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:29",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.948734700679779
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.5870913863182068
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:30",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9364733695983887
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:30",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.938262403011322
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.32197701930999756
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:30",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9375820159912109
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.3943566381931305
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:31",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9402225017547607
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.5602588057518005
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:31",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9465488195419312
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.3574778437614441
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.33370116353034973
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:31",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9436184763908386
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.5621211528778076
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.3498457968235016
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.2872526943683624
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:31",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9395767450332642
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.3535343408584595
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.26533976197242737
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:32",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9446768760681152
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.34871333837509155
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.26656827330589294
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:32",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9428839087486267
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.29765892028808594
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:32",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9457061290740967
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.31301748752593994
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:33",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9480211734771729
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.4480728805065155
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.27739807963371277
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:33",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9448973536491394
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.31260496377944946
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:33",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9440304040908813
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.32469168305397034
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:34",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.94602370262146
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.2681586444377899
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:34",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9427253603935242
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.27344363927841187
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:34",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9466037154197693
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.3537820279598236
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.29112789034843445
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:34",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.946260392665863
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.3707355558872223
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.327021986246109
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:35",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9491294026374817
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.48607373237609863
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.3415372371673584
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:35",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.948320746421814
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.6261340379714966
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.2517082095146179
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:35",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9496537446975708
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.32084834575653076
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.2788655757904053
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:36",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.945259690284729
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.34372177720069885
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.2583572566509247
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:36",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9469630718231201
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.3951658010482788
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.31452393531799316
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.25697243213653564
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:36",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9492754936218262
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.2901168763637543
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.27327072620391846
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:37",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9472705125808716
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.3647235035896301
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.31952065229415894
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.29810935258865356
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-10 13:45:37",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9425451159477234
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.3939773142337799
+            },
+            {
+                "class_name": "chair",
+                "confidence": 0.3303239643573761
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.2985982894897461
+            }
+        ]
+    }
+]
