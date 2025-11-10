@@ -1,36 +1,8 @@
 # YVR-Airport-Object-Detection
-Data-driven solution built for YVR Hackathon 2024 to enhance airport safety and efficiency using machine learning, computer vision, and data visualization for real-time anomaly detection and predictive insights.
+Sentinel of the Nest is an innovative AI-driven project developed for the YVR Hackathon 2024, designed to enhance airport safety, efficiency, and situational awareness through data science and automation. The solution integrates machine learning, computer vision, and predictive analytics to proactively identify anomalies, forecast congestion, and monitor ground and airside operations in real time.
 
+Using Python, TensorFlow, Scikit-learn, OpenCV, and SQL, the team built and trained models to analyze flight data, weather conditions, and operational patterns. Predictive models detect potential bottlenecks, while vision-based modules flag unusual ground activities. The insights are visualized through interactive Power BI dashboards, enabling airport authorities to make faster, data-driven decisions.
 
-YVR-Hackathon-2024/
-│
-├── data/  
-│   ├── raw/                      # Original datasets (flight data, weather, operations logs)  
-│   ├── processed/                # Cleaned and feature-engineered data for modeling  
-│
-├── notebooks/  
-│   ├── EDA.ipynb                 # Exploratory Data Analysis and data cleaning  
-│   ├── Modeling.ipynb            # ML model training and evaluation (Regression, Classification, Clustering)  
-│   ├── DeepLearning.ipynb        # CNN and LSTM models for vision and time-series tasks  
-│
-├── models/  
-│   ├── trained_models/           # Saved model weights and serialized ML pipelines  
-│   ├── model_evaluation/         # Performance metrics and confusion matrices  
-│
-├── dashboard/  
-│   ├── powerbi/                  # Power BI files and visual dashboards  
-│   ├── tableau/                  # Tableau dashboards and data sources  
-│
-├── src/  
-│   ├── data_pipeline.py          # Scripts for data ingestion and ETL automation  
-│   ├── feature_engineering.py    # Feature extraction and transformation logic  
-│   ├── train_model.py            # Model training, validation, and saving  
-│   ├── predict.py                # Inference script for running predictions  
-│
-├── app/  
-│   ├── streamlit_app.py          # Web interface for model results and dashboards  
-│   ├── api/                      # Flask/FastAPI endpoints for real-time predictions  
-│
-├── requirements.txt              # Python dependencies  
-├── README.md                     # Project documentation  
-└── LICENSE                       # License information  
+The system’s architecture combines data ingestion, preprocessing, model training, and real-time visualization into an automated workflow, ensuring continuous monitoring and performance optimization.
+
+Developed by Team VAMP — Abhilash Dikshit, Gunjan Paladiya, Murtaza Vora, Pradeep Sah, Vismay Viradiya, and Swathi Raikwar — this project demonstrates the potential of AI in transforming airport operations and safety management.
