@@ -1,8 +1,7 @@
 import tkinter as tk
 from threading import Thread, Lock
-import cv2
 from PIL import Image, ImageTk
-import argparse
+import argparse,cv2
 import json
 import supervision as sv
 from collections import defaultdict
