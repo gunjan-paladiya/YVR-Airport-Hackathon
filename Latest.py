@@ -1,5 +1,4 @@
-import cv2
-import argparse
+import cv2, argparse
 import supervision as sv
 import json
 import csv
