@@ -11,6 +11,7 @@ import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
 import time
 
+
 def check_unattended_objects(unattended_objects, class_id, timestamp):
     current_time = datetime.strptime(timestamp, "%Y-%m-%d %H:%M:%S")
     class_name = model.model.names[class_id]
