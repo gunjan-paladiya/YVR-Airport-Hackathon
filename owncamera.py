@@ -8,6 +8,7 @@ import os
 from ultralytics import YOLO
 from collections import defaultdict
 
+
 # Mapping from priority codes to colors
 PRIORITY_COLORS ={
     "P1": (0, 0, 255),  # Red
