@@ -6,6 +6,7 @@ import csv
 from datetime import datetime
 import os
 
+
 from ultralytics import YOLO
 
 def parse_arguments() -> argparse.Namespace:
